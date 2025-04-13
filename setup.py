@@ -6,10 +6,10 @@ with open('README.md', 'r') as f:
 setup(
     name='KickApiISO',
     description='A Python package for interacting with the Kick API to retrieve channel and video data.',
-    version='0.3.2',
+    version='0.3.3',
     packages=find_packages(),
     install_requires=[
-        'requests',
+        'cloudscraper',
     ],
     license="MIT",
     keywords=['kick', 'api', 'kickapi'],
