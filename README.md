@@ -4,7 +4,7 @@ The `KickApi` Python package is your gateway to seamless integration with the Ki
 ## Installation
 Getting started is a breeze. Install the KickApi package with a single command
 ```bash
-pip install KickApi
+pip install KickApiISO
 ```
 
 ## Usage
