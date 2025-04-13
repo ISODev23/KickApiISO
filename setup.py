@@ -15,6 +15,6 @@ setup(
     keywords=['kick', 'api', 'kickapi'],
     long_description=long_description,
     long_description_content_type='text/markdown', 
-    author="Tadeo,
+    author="Tadeo",
     url='https://github.com/ISODev23/KickApiISO',
 )
