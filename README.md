@@ -8,6 +8,9 @@ pip install KickApiISO
 ```
 
 ## Usage
+
+The only change made was replacing requests with cloudscraper because the Kick website was redirecting to a CAPTCHA.
+
 Integrate the KickApi into your Python project with ease:
 ### Fetch Channel Data
 The KickAPI package allows you to fetch detailed information about a Kick channel effortlessly. The example code below demonstrates how to use KickAPI to retrieve and display channel data.
