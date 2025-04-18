@@ -4,7 +4,7 @@ with open('README.md', 'r') as f:
     long_description = f.read()
 
 setup(
-    name='KickApiISO',
+    name='KickISO',
     description='A Python package for interacting with the Kick API to retrieve channel and video data.',
     version='0.3.4',
     packages=find_packages(),
